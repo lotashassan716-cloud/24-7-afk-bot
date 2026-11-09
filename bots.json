@@ -1,0 +1,29 @@
+{
+  "bots": [
+    {
+      "name": "CJ7",
+      "role": "builder",
+      "startDelaySec": 0
+    },
+    {
+      "name": "CJ8",
+      "role": "decorator",
+      "startDelaySec": 25
+    },
+    {
+      "name": "CJ9",
+      "role": "engineer",
+      "startDelaySec": 50
+    },
+    {
+      "name": "CJ10",
+      "role": "builder",
+      "startDelaySec": 75
+    },
+    {
+      "name": "CJ11",
+      "role": "decorator",
+      "startDelaySec": 100
+    }
+  ]
+}
